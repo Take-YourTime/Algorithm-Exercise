@@ -1,1 +1,1 @@
-# Self-Alforithm-Exercise
+# Self-Algorithm-Exercise
